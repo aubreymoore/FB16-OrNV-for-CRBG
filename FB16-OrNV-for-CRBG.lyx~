@@ -1,0 +1,1355 @@
+#LyX 2.2 created this file. For more info see http://www.lyx.org/
+\lyxformat 508
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass scrartcl
+\begin_preamble
+\usepackage{mciteplus}
+\end_preamble
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize 12
+\spacing single
+\use_hyperref true
+\pdf_bookmarks true
+\pdf_bookmarksnumbered false
+\pdf_bookmarksopen false
+\pdf_bookmarksopenlevel 1
+\pdf_breaklinks true
+\pdf_pdfborder false
+\pdf_colorlinks true
+\pdf_backref false
+\pdf_pdfusetitle true
+\pdf_quoted_options "linkcolor=blue, citecolor=blue, urlcolor=blue, filecolor=blue"
+\papersize letterpaper
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 1in
+\topmargin 1in
+\rightmargin 1in
+\bottommargin 1in
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Titlehead
+Farm Bill FY2016 - Final Report
+\end_layout
+
+\begin_layout Title
+Oryctes Nudivirus for Biocontrol of the Guam Biotype of the Coconut Rhinoceros
+ Beetle
+\end_layout
+
+\begin_layout Author
+Aubrey Moore, University of Guam
+\end_layout
+
+\begin_layout Description
+Year: FY2016
+\end_layout
+
+\begin_layout Description
+State: Guam
+\end_layout
+
+\begin_layout Description
+Cooperative
+\begin_inset space ~
+\end_inset
+
+Agreement
+\begin_inset space ~
+\end_inset
+
+Name: Biocontrol of the Guam Biotype of the Coconut Rhinoceros Beetle
+\end_layout
+
+\begin_layout Description
+Cooperative
+\begin_inset space ~
+\end_inset
+
+Agreement
+\begin_inset space ~
+\end_inset
+
+Number: 16-8515-2058-CA
+\end_layout
+
+\begin_layout Description
+Project
+\begin_inset space ~
+\end_inset
+
+Funding
+\begin_inset space ~
+\end_inset
+
+Period: August 1, 2016 through July 30, 2017
+\end_layout
+
+\begin_layout Description
+Project
+\begin_inset space ~
+\end_inset
+
+Report: Farm Bill Survey Report
+\end_layout
+
+\begin_layout Description
+Project
+\begin_inset space ~
+\end_inset
+
+Document
+\begin_inset space ~
+\end_inset
+
+Date: July 12, 2016
+\end_layout
+
+\begin_layout Description
+Cooperators
+\begin_inset space ~
+\end_inset
+
+Project
+\begin_inset space ~
+\end_inset
+
+Coordinator: Aubrey Moore
+\end_layout
+
+\begin_layout Description
+Name: Aubrey Moore
+\end_layout
+
+\begin_layout Description
+Agency: College of Natural and Applied Sciences, University of Guam
+\end_layout
+
+\begin_layout Description
+Address: 303 Campus Drive
+\end_layout
+
+\begin_layout Description
+City/Address/Zip: Mangilao, Guam 96923
+\end_layout
+
+\begin_layout Description
+Telephone: (671) 735-2086
+\end_layout
+
+\begin_layout Description
+E-mail: aubreymoore@guam.net
+\end_layout
+
+\begin_layout Description
+Type
+\begin_inset space ~
+\end_inset
+
+of
+\begin_inset space ~
+\end_inset
+
+Report: Semi-Annual Accomplishment Report
+\end_layout
+
+\begin_layout Description
+Performance
+\begin_inset space ~
+\end_inset
+
+period
+\begin_inset space ~
+\end_inset
+
+covered
+\begin_inset space ~
+\end_inset
+
+by
+\begin_inset space ~
+\end_inset
+
+this
+\begin_inset space ~
+\end_inset
+
+report: August 1, 2016 through July 30, 2017
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset toc
+LatexCommand tableofcontents
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage clearpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Summary
+\end_layout
+
+\begin_layout Section
+Objectives and Need for Assistance
+\end_layout
+
+\begin_layout Standard
+The abstract from the Farm Bill Suggestion for this project provides a useful
+ introduction:
+\end_layout
+
+\begin_layout Quotation
+The population of coconut rhinoceros beetles (CRB) recently established
+ on Guam is genetically distinct from other populations of this major palm
+ pest and it is being referred to as the CRB-G biotype.
+ CRB-G is resistant to Oryctes nudivirus, which is the major biocontrol
+ agent for CRB, and it appears to have other characteristics which make
+ it more invasive and harder to control than other CRB biotypes.
+ While there where no range expansions of CRB for a quarter of a century
+ (1980 to 2005), CRB is now on the move with the invasion of Guam in 2007,
+ the Port Moresby area of Papua New Guinea in 2009, Oahu, Hawaii in 2013,
+ and the Honiara area of Guadalcanal, Solomon Islands in 2015.
+ It is significant that all of these new invasions involve CRB-G.
+ 
+\end_layout
+
+\begin_layout Quotation
+This FB suggestion is a request for funding to be used as seed money to
+ organize an international collaborative project with the goal of discovering
+ a strain of OrNV or other microbial biocontrol agent which is highly pathogenic
+ for CRB-Guam, to hire a graduate research assistant and to establish a
+ insect pathology laboratory on Guam to evaluate candidate biocontrol agents
+ discovered during foreign exploration.
+\end_layout
+
+\begin_layout Subsection
+Urgent Need to Mitigate Mature Palm Mortality Caused by CRB-G on Guam
+\end_layout
+
+\begin_layout Standard
+Mortality of mature palms has increased dramatically over the past year
+ as a result of abundant new breeding sites in the form of decaying vegetation
+ left in the wake of Typhoon Dolphin which visited Guam in May 2015.
+ It appears that the typhoon triggered a positive feedback cycle where CRB
+ adults are numerous enough to large numbers of mature palms.
+ The resulting dead standing coconut stems become optimum breeding sites
+ which produce even higher numbers of adults.
+ Uncontrolled outbreaks such as this occurred in Palau and Fiji, resulting
+ in coconut palm mortality of 50% or more.
+ Current tactics of trapping, sanitation, and application of Metarhizium
+ may reduce local damage but are ineffective in preventing wide-spread island-wi
+de damage because most breeding sites are inaccessible, in jungle and/or
+ on military bases.
+\end_layout
+
+\begin_layout Standard
+There is an urgent need to find and release an effective isolate of OrNV,
+ or another effective density-dependent biocontrol agent, for CRB-G.
+ Without a rapid response, most of Guam's palms may be killed and the risk
+ of accidental transport of CRB-G to other islands is high.
+ If CRB-G invades atolls where coconut is still 
+\begin_inset Quotes eld
+\end_inset
+
+the tree of life
+\begin_inset Quotes erd
+\end_inset
+
+ or islands where coconut and/or oil palms are major crops this could lead
+ to a humanitarian disaster.
+\end_layout
+
+\begin_layout Subsection
+Need for Regional Collaboration to Manage CRB-G on Pacific Islands
+\end_layout
+
+\begin_layout Standard
+The CRB-G biotype issue is a new emergent pest problem that has Pacific
+ islands entomologists very worried.
+ 
+\end_layout
+
+\begin_layout Itemize
+Sean Marshall presented a report entitled 
+\begin_inset Quotes eld
+\end_inset
+
+A new invasive biotype of the coconut rhinoceros beetle (Oryctes rhinoceros)
+ has escaped from biological control by Oryctes rhinoceros nudivirus
+\begin_inset Quotes erd
+\end_inset
+
+ at the International Congress on Invertebrate Pathology and Microbial Control
+ and the 48th Annual Meeting of the Society for Invertebrate Pathology in
+ Vancouver, BC, Canada on August 13, 2015.
+ 
+\end_layout
+
+\begin_layout Itemize
+The University of Guam published a press release entitled Pacific Entomologists
+ are Worried About a New Type of Coconut Rhinoceros Beetle Discovered on
+ Guam on September 2, 2015.
+ This press release describes the rapidly worsening damage caused by CRB
+ on Guam.
+\end_layout
+
+\begin_layout Itemize
+Trevor Jackson published a note entitled Need for emergency response for
+ a new variant of rhinoceros beetle (Guam biotype) in the current edition
+ (Nov.
+ 2015) International Association for the Plant Protection Sciences Newsletter.
+ In this note, Jackson suggests the following steps should be taken as soon
+ as possible to avert large scale ecological and economic damage to palms
+ by rhino beetle invasions on Pacific islands: 
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Raise awareness through biosecurity networks of the potential threat of
+ CRB-Guam and provide information for early detection and eradication of
+ limited outbreaks 
+\end_layout
+
+\begin_layout Enumerate
+Form an International Working Group to develop a strategy for control and
+ containment and coordinate activities.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Identify funding sources and secure funding for key participating institutes.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Carry out a thorough delimiting survey to identify current distribution
+ of CRB-G and identify center of origin.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Find and test Oryctes nudivirus variants to find CRB pathogenic strains.
+\end_layout
+
+\begin_layout Enumerate
+Implement control and containment strategy to limit impact and spread of
+ the beetle.
+ 
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+The Pacific Plant Protection Organization (PPPO) met in Fiji during the
+ week of September 21, 2015, attended by reps from 22 Pacific Island countries
+ and territories, the Secretariat of the Pacific Community, AgResearch New
+ Zealand, United Nations Food and Agriculture Organization, and the United
+ States Department of Agriculture, and federal governments of Australia
+ and New Zealand.
+ CRB-G was discussed at length.
+ Jackson's suggestions were endorsed by the PPPO and the Pacific Community
+ (SPC) was asked to assist in formulating plans and finding funding for
+ a regional collaboration to implement these suggestions.
+ In addition, it was suggested that 
+\begin_inset Quotes eld
+\end_inset
+
+Exploration of effective biological control candidates, especially virus
+ from the native range of the CRB-G biotype.
+\begin_inset Quotes erd
+\end_inset
+
+ should be a priority action item.
+ Although success in finding an effective OrNV isolate is not guaranteed,
+ experts suggest there is a high probability of finding such an isolate
+ infecting beetles near the origin of the CRB-G biotype.
+ An endemic population of CRB-G has been found on Negros Island in the Philippin
+es.
+ In addition, Palau has CRB-G and other CRB biotypes.
+ This grant will support a two weeks of field work by Moore, Marshall, and
+ Iriarte in Palau and the Philippines.
+ The major objective is to find an effective biocontrol agent for CRB-G
+ and a secondary objective is to develop and test protocols for further
+ foreign exploration.
+ 
+\end_layout
+
+\begin_layout Itemize
+SPC sponsored a workshop in Fiji during June 1-3, 2016.
+ A half-day session during this workshop was on the topic 
+\begin_inset Quotes eld
+\end_inset
+
+Developing a response to the threat of CRB-G.
+ Information exchange, development of response plans, coordination and developme
+nt of new projects.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+The next opportunity for a face-to-face meeting of entomologists working
+ on CRB-G will be at the International Congress of Entomology in Orlando,
+ Florida during September, 2016.
+ Many of those involved will participate in a symposium organized by Trevor
+ Jackson and Mike Kline entitled 
+\begin_inset Quotes eld
+\end_inset
+
+Scarabs without Borders: Lessons from a Century of Invasions
+\begin_inset Quotes erd
+\end_inset
+
+.
+ Plans are to use this event as an opportunity to organize a regional collaborat
+ion.
+ This grant will support Aubrey Moore's participation in this symposium.
+ He will make a presentation entitled 
+\begin_inset Quotes eld
+\end_inset
+
+The Rhinoceros Beetle Invasion of Guam: An Unprecedented Disaster
+\begin_inset Quotes erd
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Section
+Results or Benefits Expected
+\end_layout
+
+\begin_layout Itemize
+Foreign exploration leading to discovery of a highly pathogenic strain of
+ OrNV or other microbial biocontrol agent for CRB-Guam could lead to implementat
+ion of self sustaining population suppression and tolerable damage levels
+ on Guam.
+ 
+\end_layout
+
+\begin_layout Itemize
+Loss of 50% or more of Guam's palms may be prevented if an effective biocontrol
+ agent is found and released quickly.
+ 
+\end_layout
+
+\begin_layout Itemize
+Reduction in CRB population levels on Guam will reduce the risk of accidental
+ transport of the highly invasive CRB-Guam biotype to other Pacific islands
+ and elsewhere An effective biocontrol agent for Guam's CRB infestation
+ will be useful against CRB-Guam invasions elsewhere.
+\end_layout
+
+\begin_layout Section
+Approach
+\end_layout
+
+\begin_layout Subsection
+\begin_inset Quotes eld
+\end_inset
+
+Witch's Brew
+\begin_inset Quotes erd
+\end_inset
+
+ Bioassays
+\end_layout
+
+\begin_layout Standard
+In previous years, we tested several isolates of OrNV from AgResearch New
+ Zealand and some from virus-infected beetles in Fiji.
+ We did not observe significant mortality during many bioassays, leading
+ us to the conclusion that CRB-G is resistant to OrNV.
+ However, to confirm that we do not have OrNV pathogenic for CRB-G, we have
+ started a series of 
+\begin_inset Quotes eld
+\end_inset
+
+witch's brew
+\begin_inset Quotes erd
+\end_inset
+
+ bioassays.
+ Frozen, dead beetles from all previous bioassays were added to one liter
+ of water and made into an aqueous slurry using a blender.
+ Vials containing remnants of virus samples from AgResearch New Zealand
+ were agitated in 500 ml of water, and this suspension was added to the
+ blender.
+ The slurry was poured into a small pail and forty beetles were made to
+ swim in this for thirty minutes.
+ A control group of beetles was made to swim in water for thirty minutes.
+ Beetles were kept in a large container filled with moist, commercially
+ blended steer manure and soil.
+ All beetles were checked weekly.
+ Dead beetles were recorded and frozen.
+\end_layout
+
+\begin_layout Standard
+We found a significantly higher mortality in beetles which swam in the slurry
+ as opposed to beetles which swam in water.
+ We made a fresh 
+\begin_inset Quotes eld
+\end_inset
+
+witch's brew
+\begin_inset Quotes erd
+\end_inset
+
+ by blending all dead beetles from this assay, and again observed mortality
+ significantly higher than that of the control group.
+ We will continue these witch's brew experiments and send beetle tissue
+ samples to AgResearch New Zealand to test for OrNV.
+\end_layout
+
+\begin_layout Subsubsection
+Progress
+\end_layout
+
+\begin_layout Paragraph
+Technical Support and Collaboration
+\end_layout
+
+\begin_layout Itemize
+As per the work plan, a graduate student was recruited as a research assistant
+ for this project.
+ Ian Iriarte will fill this role as he earns a masters degree in the University
+ of Guam's Environmental Science program.
+ Mr.
+ Iriarte's research topic is 
+\begin_inset Quotes eld
+\end_inset
+
+Biological Control of Coconut Rhinoceros Beetle
+\begin_inset Quotes erd
+\end_inset
+
+.
+ 
+\end_layout
+
+\begin_layout Itemize
+A contract was prepared to facilitate collaboration between UOG and AgResearch
+ New Zealand.
+ Dr.
+ Sean Marshall and Dr.
+ Trevor Jackson, world experts on biocontrol of CRB using OrNV, work for
+ this research center.
+ The contract has been signed by Agresearch New Zealand and it is currently
+ being circulated for signatures at UOG.
+ Collabortation with colleagues at AgResearch is essential to this project
+ because they have the skills and facilities to detect OrNV, genotype CRB,
+ and propogate OrNV.
+ Molecular diagnostics of a backlog of specimens in UOG freezers is awaiting
+ completion of the contract.
+\end_layout
+
+\begin_layout Paragraph
+Witch's Brew Experiment
+\end_layout
+
+\begin_layout Itemize
+We have now completed 4 iterations of the 
+\begin_inset Quotes eld
+\end_inset
+
+witch's brew
+\begin_inset Quotes erd
+\end_inset
+
+ experiment.
+ Results are summarized in table 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "tab:Mortality-of-beetles"
+
+\end_inset
+
+ and details are in tech reports available online at:
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset href
+LatexCommand href
+target "https://github.com/aubreymoore/Witch-s-Brew/blob/master/witchesBrew1/wb1.pdf"
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset href
+LatexCommand href
+target "https://github.com/aubreymoore/Witch-s-Brew/blob/master/witchesBrew2/wb2.pdf"
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset href
+LatexCommand href
+target "https://github.com/aubreymoore/Witch-s-Brew/blob/master/witchesBrew3/wb3.pdf"
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset href
+LatexCommand href
+target "https://github.com/aubreymoore/Witch-s-Brew/blob/master/witchesBrew4/wb4.pdf"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Treatment mortality for beetles forced to swim in the 
+\begin_inset Quotes eld
+\end_inset
+
+witch's brew
+\begin_inset Quotes erd
+\end_inset
+
+ is high and continues to rise with each iteration.
+ However, control mortality is high, about 30-40%, mainly due to the fungal
+ pathogen, 
+\emph on
+Metarhizium majus
+\emph default
+.
+ We have attempted to filter out fungal spores by passing the brew through
+ a serious of filters with the last stage being a Millipore 0.45 micron filter,
+ which should block all fungal spores while allowing virus particles to
+ pass through.
+ Unfortunately, this idea has not worked because filters get totally plugged.
+\end_layout
+
+\begin_layout Itemize
+To date, we have no indication that any of the beetles which died in the
+ 
+\begin_inset Quotes eld
+\end_inset
+
+witch's brew
+\begin_inset Quotes erd
+\end_inset
+
+ experiment were killed by OrNV.
+ We are awaiting signing of the contract with Ag Research so that we can
+ send samples to Dr.
+ Marshall for virus detection.
+ If any virus is detected, we will resume iterations of the 
+\begin_inset Quotes eld
+\end_inset
+
+witch's brew
+\begin_inset Quotes erd
+\end_inset
+
+ experiment in an attempt to increase virulence.
+\end_layout
+
+\begin_layout Itemize
+We have also trapped a series of beetles an dissected out guts to send to
+ Ag Research for virus detection.
+ Biological control agents often arrive a few years after detection of invasive
+ species.
+ These 
+\begin_inset Quotes eld
+\end_inset
+
+fortuitous introductions
+\begin_inset Quotes erd
+\end_inset
+
+ are common.
+ Samples will be sent to Dr.
+ Marshall for virus detection when the AgResearch contract is signed.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float table
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+\begin_inset CommandInset label
+LatexCommand label
+name "tab:Mortality-of-beetles"
+
+\end_inset
+
+Mortality of beetles forced to swim in the witch's brew.
+ 
+\series bold
+Treatment mortality
+\series default
+ is corrected for control mortality using Abbott's formula.
+ 
+\series bold
+p
+\series default
+ is the probability of treatment mortality exceeding control mortality by
+ chance (Fisher's exact test).
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Tabular
+<lyxtabular version="3" rows="5" columns="3">
+<features tabularvalignment="middle">
+<column alignment="center" valignment="top" width="0pt">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+iteration
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+treatment mortality
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+p
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+1
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+51%
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+0.0005
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+2
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+53%
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+0.0014
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+3
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+82%
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+0.0000
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+4
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+84%
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+0.0000
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Regional Collaboration on CRB-G Management
+\end_layout
+
+\begin_layout Standard
+Moore will continue work with collaborators at AgResearch New Zealand and
+ SPC to put together a regional collaboration with the objective of finding
+ an effective biocontrol agent for CRB-G.
+ Plans will be developed and moved forward at the scarab beetle symposium
+ at the International Symposium of Entomology.
+\end_layout
+
+\begin_layout Subsubsection
+Progress
+\end_layout
+
+\begin_layout Paragraph
+Activities at the International Congress of Entomology, Orlando, Florida
+ 
+\end_layout
+
+\begin_layout Itemize
+Participated in a symposium entitled 
+\series bold
+Scarabs without Borders: Lessons from a Century of Invasions
+\series default
+.
+ Abstracts for presentations relevent to CRB are available at:
+\begin_inset Newline newline
+\end_inset
+
+ 
+\begin_inset CommandInset href
+LatexCommand href
+target "https://aubreymoore.github.io/CRB-G-ICE2016/Session26139.html"
+
+\end_inset
+
+.
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Delivered an invited oral presentation: 
+\series bold
+The rhinoceros beetle invasion of Guam: An unprecedented disaster.
+
+\series default
+ Aubrey Moore, University of Guam; Roland Quitugua, University of Guam;
+ Trevor Jackson, AgResearch Ltd; Sean Marshall, AgResearch Ltd; Matthew
+ Siderhurst, Eastern Mennonite University 
+\end_layout
+
+\begin_layout Itemize
+Co-authored presentation: 
+\series bold
+Detection of an invasive biotype of Oryctes rhinoceros (L.) in the Pacific.
+
+\series default
+ Sean Marshall, AgResearch Ltd; Maclean Vaqalo, Secretariat of the Pacific
+ Community; Aubrey Moore, University of Guam; Roland Quitugua, University
+ of Guam; Trevor Jackson, AgResearch Ltd 
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+I helped to organized and participated in a special meeting to discuss a
+ regional response to the coconut rhinoceros beetle biotype.
+ This meeting was sponsored by USDA-APHIS and co-chaired by Dr.
+ Ron Weeks and Philipp Andreozzi.
+ Minutes from this meeting and associated data are saved in an Open Science
+ Framework project I created at 
+\begin_inset CommandInset href
+LatexCommand href
+target "https://osf.io/67g2m/"
+
+\end_inset
+
+.
+ A press release about the meeting including a photo of participants can
+ be found here: 
+\begin_inset CommandInset href
+LatexCommand href
+target "https://osf.io/qsd8p/"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Paragraph
+Collaboration with University of Hawaii 
+\end_layout
+
+\begin_layout Itemize
+On my way back from the ICE, I met with colleagues at UH-Manoa to discuss
+ and participate in coconut rhinoceros beetle research: Mike Melzer, Shizu
+ Watanabe, Zhiqiang Cheng, Dan Jenkins, John Allen, Hans Ramm, Mitch McLean.
+ Discussed collaboration on development of instrumentation.
+ Photos from a lab session available here: 
+\begin_inset CommandInset href
+LatexCommand href
+target "https://flic.kr/s/aHskK1bjRC"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Subsection
+Foreign Exploration for an Effective Biocontrol Agent for CRB-G
+\end_layout
+
+\begin_layout Standard
+Early in 2017, Moore, Iriarte and Marshall will do field work in Palau and
+ the Philippines.
+ The major objective is to find an effective biocontrol agent for CRB-G
+ and a secondary objective is to develop and test protocols for further
+ foreign exploration.
+ DNA analysis of CRB and OrNV will be done by AgResearch.
+ Bioassays of any detected OrNV will be done at the University of Guam.
+\end_layout
+
+\begin_layout Subsubsection
+Progress
+\end_layout
+
+\begin_layout Itemize
+As per the work plan, we were to visit both the Philippines and Palau during
+ our initial foreign exploration to prospect for an OrNV isolate which can
+ be used as an effective biocontrol agent for CRB-G.
+ We have decided to skip a visit to Palau because these islands have been
+ recently surveyed by our UH colleagues and we don't want to duplicate their
+ work.
+ Plus, we feel we have a much higher chance of finding OrNV attacking CRB-G
+ in the Philippines which we think is within the native range of CRB-G.
+ We will start our search on Negros Island.
+ CRB previously collected on this island by myself and the Philippine Coconut
+ Authority were all genotyped as CRB-G.
+ Our trip, to include Dr.
+ Sean Marshall, Ian Iriarte, and myself, is planned for January 23 through
+ February 4, 2017.
+\end_layout
+
+\begin_layout Section
+Publications
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+renewcommand
+\backslash
+refname{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+mciteErrorOnUnknownfalse
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset bibtex
+LatexCommand bibtex
+btprint "btPrintAll"
+bibfiles "progrep"
+options "IEEEtranM"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage clearpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Signatures
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace 2in
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Tabular
+<lyxtabular version="3" rows="6" columns="2">
+<features tabularvalignment="middle">
+<column alignment="center" valignment="top" width="3in">
+<column alignment="center" valignment="top" width="1in">
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Dr.
+ Lee S, Yudin, ROAR
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Date
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Vernon Harrington, ADODR
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Date
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Appendix 1: Report on Foreign Exploration for OrNV on Negros Island, Philippines
+\end_layout
+
+\begin_layout Standard
+\begin_inset External
+	template PDFPages
+	filename AgR PH CRB PCR analysis Report_final.pdf
+	display false
+	extra LaTeX "pages=-"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Appendix 2: Journal of Invertebrate Pathology Article on Discovery of CRB-G
+\end_layout
+
+\begin_layout Standard
+\begin_inset External
+	template PDFPages
+	filename Marshall et al. - 2017 - A new haplotype of the coconut rhinoceros beetle, .pdf
+	display false
+	extra LaTeX "pages=-"
+
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document
