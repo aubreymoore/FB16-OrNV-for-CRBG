@@ -210,7 +210,7 @@ of
 \begin_inset space ~
 \end_inset
 
-Report: Semi-Annual Accomplishment Report
+Report: Final Accomplishment Report
 \end_layout
 
 \begin_layout Description
@@ -254,18 +254,15 @@ LatexCommand tableofcontents
 \end_layout
 
 \begin_layout Standard
-\begin_inset Newpage clearpage
+\begin_inset Newpage newpage
 \end_inset
 
 
 \end_layout
 
 \begin_layout Section
-Summary
-\end_layout
-
-\begin_layout Section
-Objectives and Need for Assistance
+Objectives and Need for Assistance (Extracted from the FB Suggestion and
+ Workplan)
 \end_layout
 
 \begin_layout Standard
@@ -291,10 +288,21 @@ The population of coconut rhinoceros beetles (CRB) recently established
 \begin_layout Quotation
 This FB suggestion is a request for funding to be used as seed money to
  organize an international collaborative project with the goal of discovering
- a strain of OrNV or other microbial biocontrol agent which is highly pathogenic
+ a strain of 
+\emph on
+Oryctes rhinoceros
+\emph default
+ nudivirus (OrNV) or other microbial biocontrol agent which is highly pathogenic
  for CRB-Guam, to hire a graduate research assistant and to establish a
  insect pathology laboratory on Guam to evaluate candidate biocontrol agents
  discovered during foreign exploration.
+\end_layout
+
+\begin_layout Standard
+The following subsections (2.1 through 2.3) come from the approved work plan
+ for the FY2016 Farm Bill Grant.
+ They describe the CRB-G situation at the beginning of the grant performance
+ period, August 1, 2016.
 \end_layout
 
 \begin_layout Subsection
@@ -302,16 +310,20 @@ Urgent Need to Mitigate Mature Palm Mortality Caused by CRB-G on Guam
 \end_layout
 
 \begin_layout Standard
-Mortality of mature palms has increased dramatically over the past year
- as a result of abundant new breeding sites in the form of decaying vegetation
- left in the wake of Typhoon Dolphin which visited Guam in May 2015.
+Mortality of mature palms on Guam has increased dramatically over the past
+ year as a result of abundant new breeding sites in the form of decaying
+ vegetation left in the wake of Typhoon Dolphin which visited Guam in May
+ 2015.
  It appears that the typhoon triggered a positive feedback cycle where CRB
- adults are numerous enough to large numbers of mature palms.
+ adults are numerous enough to kill large numbers of mature palms.
  The resulting dead standing coconut stems become optimum breeding sites
  which produce even higher numbers of adults.
  Uncontrolled outbreaks such as this occurred in Palau and Fiji, resulting
  in coconut palm mortality of 50% or more.
- Current tactics of trapping, sanitation, and application of Metarhizium
+ Current tactics of trapping, sanitation, and application of 
+\emph on
+Metarhizium majus
+\emph default
  may reduce local damage but are ineffective in preventing wide-spread island-wi
 de damage because most breeding sites are inaccessible, in jungle and/or
  on military bases.
@@ -346,14 +358,17 @@ The CRB-G biotype issue is a new emergent pest problem that has Pacific
 
 \begin_layout Itemize
 Sean Marshall presented a report entitled 
-\begin_inset Quotes eld
-\end_inset
-
-A new invasive biotype of the coconut rhinoceros beetle (Oryctes rhinoceros)
- has escaped from biological control by Oryctes rhinoceros nudivirus
-\begin_inset Quotes erd
-\end_inset
-
+\series bold
+A new invasive biotype of the coconut rhinoceros beetle (
+\emph on
+Oryctes rhinoceros
+\emph default
+) has escaped from biological control by 
+\emph on
+Oryctes rhinoceros
+\emph default
+ nudivirus
+\series default
  at the International Congress on Invertebrate Pathology and Microbial Control
  and the 48th Annual Meeting of the Society for Invertebrate Pathology in
  Vancouver, BC, Canada on August 13, 2015.
@@ -361,18 +376,24 @@ A new invasive biotype of the coconut rhinoceros beetle (Oryctes rhinoceros)
 \end_layout
 
 \begin_layout Itemize
-The University of Guam published a press release entitled Pacific Entomologists
- are Worried About a New Type of Coconut Rhinoceros Beetle Discovered on
- Guam on September 2, 2015.
+The University of Guam published a press release entitled 
+\series bold
+Pacific Entomologists are Worried About a New Type of Coconut Rhinoceros
+ Beetle Discovered on Guam
+\series default
+ on September 2, 2015.
  This press release describes the rapidly worsening damage caused by CRB
  on Guam.
 \end_layout
 
 \begin_layout Itemize
-Trevor Jackson published a note entitled Need for emergency response for
- a new variant of rhinoceros beetle (Guam biotype) in the current edition
- (Nov.
- 2015) International Association for the Plant Protection Sciences Newsletter.
+Trevor Jackson published a note entitled 
+\series bold
+Need for emergency response for a new variant of rhinoceros beetle (Guam
+ biotype)
+\series default
+ in the Nov.
+ 2015 International Association for the Plant Protection Sciences Newsletter.
  In this note, Jackson suggests the following steps should be taken as soon
  as possible to avert large scale ecological and economic damage to palms
  by rhino beetle invasions on Pacific islands: 
@@ -495,7 +516,7 @@ The Rhinoceros Beetle Invasion of Guam: An Unprecedented Disaster
 .
 \end_layout
 
-\begin_layout Section
+\begin_layout Subsection
 Results or Benefits Expected
 \end_layout
 
@@ -521,7 +542,45 @@ Reduction in CRB population levels on Guam will reduce the risk of accidental
 \end_layout
 
 \begin_layout Section
-Approach
+Activities and Results
+\end_layout
+
+\begin_layout Subsection
+Technical Support and Collaboration
+\end_layout
+
+\begin_layout Itemize
+As per the work plan, a graduate student was recruited as a research assistant
+ for this project.
+ Ian Iriarte will fill this role as he earns a masters degree in the University
+ of Guam's Environmental Science program.
+ Mr.
+ Iriarte's research topic is 
+\begin_inset Quotes eld
+\end_inset
+
+Biological Control of Coconut rhinoceros Beetle
+\begin_inset Quotes erd
+\end_inset
+
+.
+ Mr.
+ Iriarte resigned from the project during April 2017 to take a permanent
+ job with the Guam Department of Agriculture working on little fire ant.
+\end_layout
+
+\begin_layout Itemize
+A contract using funds from this grant was prepared to facilitate collaboration
+ between UOG and AgResearch New Zealand, the home institution for Dr.
+ Sean Marshall and Dr.
+ Trevor Jackson, world experts on biocontrol of CRB using OrNV.
+ Support of the existing collaboration with colleagues at AgResearch is
+ essential to this project because they have the skills and facilities to
+ detect OrNV, genotype CRB, and propagate OrNV.
+ Dr.
+ Marshall joined Aubrey Moore and Ian Iriarte in a trip to Negros Island,
+ Philippines to search for an isolate of OrNV which is an effective biocontrol
+ agent for CRB-G.
 \end_layout
 
 \begin_layout Subsection
@@ -535,12 +594,27 @@ Witch's Brew
  Bioassays
 \end_layout
 
+\begin_layout Subsubsection
+Activities
+\end_layout
+
 \begin_layout Standard
 In previous years, we tested several isolates of OrNV from AgResearch New
  Zealand and some from virus-infected beetles in Fiji.
  We did not observe significant mortality during many bioassays, leading
- us to the conclusion that CRB-G is resistant to OrNV.
- However, to confirm that we do not have OrNV pathogenic for CRB-G, we have
+ us to the conclusion that CRB-G is resistant to OrNV 
+\begin_inset CommandInset ref
+LatexCommand nameref
+reference "sec:Appendix-2:-Journal"
+
+\end_inset
+
+.
+ 
+\end_layout
+
+\begin_layout Standard
+However, to confirm that we do not have OrNV pathogenic for CRB-G, we have
  started a series of 
 \begin_inset Quotes eld
 \end_inset
@@ -564,67 +638,8 @@ witch's brew
  Dead beetles were recorded and frozen.
 \end_layout
 
-\begin_layout Standard
-We found a significantly higher mortality in beetles which swam in the slurry
- as opposed to beetles which swam in water.
- We made a fresh 
-\begin_inset Quotes eld
-\end_inset
-
-witch's brew
-\begin_inset Quotes erd
-\end_inset
-
- by blending all dead beetles from this assay, and again observed mortality
- significantly higher than that of the control group.
- We will continue these witch's brew experiments and send beetle tissue
- samples to AgResearch New Zealand to test for OrNV.
-\end_layout
-
 \begin_layout Subsubsection
-Progress
-\end_layout
-
-\begin_layout Paragraph
-Technical Support and Collaboration
-\end_layout
-
-\begin_layout Itemize
-As per the work plan, a graduate student was recruited as a research assistant
- for this project.
- Ian Iriarte will fill this role as he earns a masters degree in the University
- of Guam's Environmental Science program.
- Mr.
- Iriarte's research topic is 
-\begin_inset Quotes eld
-\end_inset
-
-Biological Control of Coconut Rhinoceros Beetle
-\begin_inset Quotes erd
-\end_inset
-
-.
- 
-\end_layout
-
-\begin_layout Itemize
-A contract was prepared to facilitate collaboration between UOG and AgResearch
- New Zealand.
- Dr.
- Sean Marshall and Dr.
- Trevor Jackson, world experts on biocontrol of CRB using OrNV, work for
- this research center.
- The contract has been signed by Agresearch New Zealand and it is currently
- being circulated for signatures at UOG.
- Collabortation with colleagues at AgResearch is essential to this project
- because they have the skills and facilities to detect OrNV, genotype CRB,
- and propogate OrNV.
- Molecular diagnostics of a backlog of specimens in UOG freezers is awaiting
- completion of the contract.
-\end_layout
-
-\begin_layout Paragraph
-Witch's Brew Experiment
+Results
 \end_layout
 
 \begin_layout Itemize
@@ -716,49 +731,6 @@ Metarhizium majus
  which should block all fungal spores while allowing virus particles to
  pass through.
  Unfortunately, this idea has not worked because filters get totally plugged.
-\end_layout
-
-\begin_layout Itemize
-To date, we have no indication that any of the beetles which died in the
- 
-\begin_inset Quotes eld
-\end_inset
-
-witch's brew
-\begin_inset Quotes erd
-\end_inset
-
- experiment were killed by OrNV.
- We are awaiting signing of the contract with Ag Research so that we can
- send samples to Dr.
- Marshall for virus detection.
- If any virus is detected, we will resume iterations of the 
-\begin_inset Quotes eld
-\end_inset
-
-witch's brew
-\begin_inset Quotes erd
-\end_inset
-
- experiment in an attempt to increase virulence.
-\end_layout
-
-\begin_layout Itemize
-We have also trapped a series of beetles an dissected out guts to send to
- Ag Research for virus detection.
- Biological control agents often arrive a few years after detection of invasive
- species.
- These 
-\begin_inset Quotes eld
-\end_inset
-
-fortuitous introductions
-\begin_inset Quotes erd
-\end_inset
-
- are common.
- Samples will be sent to Dr.
- Marshall for virus detection when the AgResearch contract is signed.
 \end_layout
 
 \begin_layout Standard
@@ -975,25 +947,65 @@ p
 
 \end_layout
 
+\begin_layout Subsubsection
+Next Steps
+\end_layout
+
+\begin_layout Itemize
+To date, we have no indication that any of the beetles which died in the
+ 
+\begin_inset Quotes eld
+\end_inset
+
+witch's brew
+\begin_inset Quotes erd
+\end_inset
+
+ experiment were killed by OrNV.
+ We sent gut samples from beetles which died in the experiments to Dr.
+ Marshall for virus detection.
+ If any virus is detected, we will resume iterations of the 
+\begin_inset Quotes eld
+\end_inset
+
+witch's brew
+\begin_inset Quotes erd
+\end_inset
+
+ experiment in an attempt to increase virulence.
+ Analysis of the gut samples is awaiting finalization of a contract between
+ UOG and AgResearch supported by Farm Bill FY2017 funds.
+\end_layout
+
+\begin_layout Itemize
+We have also trapped a series of beetles and dissected out guts to send
+ to Ag Research for virus detection.
+ Biological control agents often arrive a few years after detection of invasive
+ species.
+ These 
+\begin_inset Quotes eld
+\end_inset
+
+fortuitous introductions
+\begin_inset Quotes erd
+\end_inset
+
+ are common.
+ These samples have been sent to AgResearch and analysis is also pending
+ finalization of a new contract.
+\end_layout
+
 \begin_layout Subsection
 Regional Collaboration on CRB-G Management
 \end_layout
 
-\begin_layout Standard
-Moore will continue work with collaborators at AgResearch New Zealand and
- SPC to put together a regional collaboration with the objective of finding
- an effective biocontrol agent for CRB-G.
- Plans will be developed and moved forward at the scarab beetle symposium
- at the International Symposium of Entomology.
-\end_layout
-
 \begin_layout Subsubsection
-Progress
+Activities
 \end_layout
 
 \begin_layout Paragraph
-Activities at the International Congress of Entomology, Orlando, Florida
- 
+Activities at the International Congress of Entomology, Orlando, Florida,
+ September, 2016 
 \end_layout
 
 \begin_layout Itemize
@@ -1002,7 +1014,7 @@ Participated in a symposium entitled
 Scarabs without Borders: Lessons from a Century of Invasions
 \series default
 .
- Abstracts for presentations relevent to CRB are available at:
+ Abstracts for presentations relevant to CRB are available at:
 \begin_inset Newline newline
 \end_inset
 
@@ -1035,7 +1047,11 @@ The rhinoceros beetle invasion of Guam: An unprecedented disaster.
 \begin_layout Itemize
 Co-authored presentation: 
 \series bold
-Detection of an invasive biotype of Oryctes rhinoceros (L.) in the Pacific.
+Detection of an invasive biotype of 
+\emph on
+Oryctes rhinoceros
+\emph default
+ (L.) in the Pacific.
 
 \series default
  Sean Marshall, AgResearch Ltd; Maclean Vaqalo, Secretariat of the Pacific
@@ -1049,34 +1065,37 @@ I helped to organized and participated in a special meeting to discuss a
  regional response to the coconut rhinoceros beetle biotype.
  This meeting was sponsored by USDA-APHIS and co-chaired by Dr.
  Ron Weeks and Philipp Andreozzi.
- Minutes from this meeting and associated data are saved in an Open Science
- Framework project I created at 
-\begin_inset CommandInset href
-LatexCommand href
-target "https://osf.io/67g2m/"
-
-\end_inset
-
-.
- A press release about the meeting including a photo of participants can
- be found here: 
-\begin_inset CommandInset href
-LatexCommand href
-target "https://osf.io/qsd8p/"
-
-\end_inset
-
-.
+ 
 \end_layout
 
 \begin_layout Paragraph
-Collaboration with University of Hawaii 
+Collaboration with CRB Researchers University of Hawaii 
 \end_layout
 
 \begin_layout Itemize
-On my way back from the ICE, I met with colleagues at UH-Manoa to discuss
- and participate in coconut rhinoceros beetle research: Mike Melzer, Shizu
- Watanabe, Zhiqiang Cheng, Dan Jenkins, John Allen, Hans Ramm, Mitch McLean.
+During a trip to Guam by University of Hawaii researchers Drs.
+ Mike Melzer, Shizu Watanabe and Zhiqiang Cheng we visited a Home Depot
+ hardware store to investigate claims that they were selling bags of soil
+ prepopulated with CRB.
+ Our findings were documented as a scientific note 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "moore_movement_2016"
+
+\end_inset
+
+.
+ During April, 2017 live CRB grubs and adults were accidentally shipped
+ from Guam to Saipan in a shipment of packaged soil purchased from Home
+ Depot.
+ 
+\end_layout
+
+\begin_layout Itemize
+On my way back to Guam from the International Congress of Entomology, I
+ met with colleagues at UH-Manoa to discuss and participate in coconut rhinocero
+s beetle research: Mike Melzer, Shizu Watanabe, Zhiqiang Cheng, Dan Jenkins,
+ John Allen, Hans Ramm, Mitch McLean.
  Discussed collaboration on development of instrumentation.
  Photos from a lab session available here: 
 \begin_inset CommandInset href
@@ -1088,39 +1107,135 @@ target "https://flic.kr/s/aHskK1bjRC"
 .
 \end_layout
 
+\begin_layout Subsubsection
+Results
+\end_layout
+
+\begin_layout Itemize
+Minutes from the special meeting to discuss a regional response to the coconut
+ rhinoceros beetle biotype held at the International Congress of Entomology
+ and associated data are saved in an Open Science Framework project I created
+ at 
+\begin_inset CommandInset href
+LatexCommand href
+target "https://osf.io/67g2m/"
+
+\end_inset
+
+.
+ 
+\end_layout
+
+\begin_layout Itemize
+A press release about the meeting including a photo of participants can
+ be found here: 
+\begin_inset CommandInset href
+LatexCommand href
+target "https://osf.io/qsd8p/"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Subsubsection
+Next Steps
+\end_layout
+
+\begin_layout Paragraph
+Regional Collaboration
+\end_layout
+
+\begin_layout Standard
+Efforts to organize and fund a regional project in response to CRB-G continue:
+\end_layout
+
+\begin_layout Itemize
+The Secretariat of the Pacific Community is hosting a 
+\series bold
+Subregional Workshop on Coconut Rhinoceros Beetle – Guam Biotype
+\series default
+ on 18-19 September 2017.
+\end_layout
+
+\begin_layout Itemize
+Dr.
+ Madoka at the University of Tokyo is launching a project with the goal
+ of finding the mechanism by which CRB develop resistance to OrNV.
+ A kick-off meeting is being held in Tokyo from at the end of September
+ 2017.
+\end_layout
+
 \begin_layout Subsection
 Foreign Exploration for an Effective Biocontrol Agent for CRB-G
 \end_layout
 
-\begin_layout Standard
-Early in 2017, Moore, Iriarte and Marshall will do field work in Palau and
- the Philippines.
- The major objective is to find an effective biocontrol agent for CRB-G
- and a secondary objective is to develop and test protocols for further
- foreign exploration.
- DNA analysis of CRB and OrNV will be done by AgResearch.
- Bioassays of any detected OrNV will be done at the University of Guam.
-\end_layout
-
 \begin_layout Subsubsection
-Progress
+Activities
 \end_layout
 
 \begin_layout Itemize
-As per the work plan, we were to visit both the Philippines and Palau during
- our initial foreign exploration to prospect for an OrNV isolate which can
- be used as an effective biocontrol agent for CRB-G.
- We have decided to skip a visit to Palau because these islands have been
- recently surveyed by our UH colleagues and we don't want to duplicate their
- work.
- Plus, we feel we have a much higher chance of finding OrNV attacking CRB-G
- in the Philippines which we think is within the native range of CRB-G.
- We will start our search on Negros Island.
- CRB previously collected on this island by myself and the Philippine Coconut
- Authority were all genotyped as CRB-G.
- Our trip, to include Dr.
- Sean Marshall, Ian Iriarte, and myself, is planned for January 23 through
- February 4, 2017.
+In January 2017 Moore, Iriarte and Marshall visited Dumaguete, Negros Island,
+ Philippines.
+ The objective of this trip was to begin searching for new OrNV isolates
+ that could be effective against the CRB-G haplotype.
+ Native habitats provide a good opportunity to identify candidate OrNV isolates
+ (and other potential biocontrol agents).
+ OrNV is known to be widespread across the Philippines, where CRB is considered
+ as native, and the CRB-G haplotype has been identified from the Dumaguete
+ area.
+ We had planned to visit Palau during the same trip.
+ But we decided to concentrate our efforts in the Philippines because our
+ Hawaiian colleagues had already initiated work with CRB and OrNV in Palau.
+\end_layout
+
+\begin_layout Itemize
+CRB tissue samples were obtained from live CRB adults collected using both
+ pheromone trapping and hand collection from the Philippines.
+ Gross observation and molecular DNA analyses were used to determine the
+ OrNV infection status and haplotype of individual specimens.
+ The pheromone trapping results were disappointing, with only a single CRB
+ adult caught; however, hand collection enabled a number of adults and larvae
+ to be collected.
+ From the CRB specimens collected in the Philippines, one OrNV infected
+ CRB adult was identified.
+ This specimen was confirmed to be of the CRB-G haplotype, and OrNV from
+ the infected tissue was isolated to prepare inoculum for testing efficacy
+ against CRB-G.
+ 
+\end_layout
+
+\begin_layout Subsubsection
+Results
+\end_layout
+
+\begin_layout Itemize
+Details of the trip, subsequent analysis, and results are provided in the
+ report attached as [
+\begin_inset CommandInset ref
+LatexCommand nameref
+reference "sec:Appendix-1:-Report"
+
+\end_inset
+
+].
+\end_layout
+
+\begin_layout Subsubsection
+Next Steps
+\end_layout
+
+\begin_layout Itemize
+An OrNV isolate extracted from a single CRB-G adult was purified and propagated
+ in Dr.
+ Marshall's lab at AgResearch, New Zealand.
+ A USDA APHIS import permit was applied for and has been issued to allow
+ shipment of this OrNV isolate to Guam where it will be tested to evaluate
+ its usefulness as a biocontrol agent for CRB-G on Guam.
+\begin_inset Newpage newpage
+\end_inset
+
+
 \end_layout
 
 \begin_layout Section
@@ -1179,140 +1294,9 @@ Signatures
 \end_layout
 
 \begin_layout Standard
-\begin_inset VSpace 2in
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset Tabular
-<lyxtabular version="3" rows="6" columns="2">
-<features tabularvalignment="middle">
-<column alignment="center" valignment="top" width="3in">
-<column alignment="center" valignment="top" width="1in">
-<row>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" topline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-Dr.
- Lee S, Yudin, ROAR
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-Date
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" topline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-Vernon Harrington, ADODR
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-Date
-\end_layout
-
-\end_inset
-</cell>
-</row>
-</lyxtabular>
+\begin_inset Graphics
+	filename sigs.png
+	scale 50
 
 \end_inset
 
@@ -1327,7 +1311,17 @@ Date
 \end_layout
 
 \begin_layout Section
+\begin_inset CommandInset label
+LatexCommand label
+name "sec:Appendix-1:-Report"
+
+\end_inset
+
 Appendix 1: Report on Foreign Exploration for OrNV on Negros Island, Philippines
+\end_layout
+
+\begin_layout Standard
+Attachment begins on next page.
 \end_layout
 
 \begin_layout Standard
@@ -1343,7 +1337,17 @@ Appendix 1: Report on Foreign Exploration for OrNV on Negros Island, Philippines
 \end_layout
 
 \begin_layout Section
+\begin_inset CommandInset label
+LatexCommand label
+name "sec:Appendix-2:-Journal"
+
+\end_inset
+
 Appendix 2: Journal of Invertebrate Pathology Article on Discovery of CRB-G
+\end_layout
+
+\begin_layout Standard
+Attachment begins on next page.
 \end_layout
 
 \begin_layout Standard
